@@ -2,6 +2,6 @@ Apple Event -- October 13 2020
 
 Video url: https://p-events-delivery.akamaized.net/2109isftrwvmiekgrjkbbhxhfbkxjkoj/m3u8/vod_index.m3u8
 
-Subtitle english url: https://github.com/Pisey-Nguon/Player-Resource/blob/9e4e9882436e17db76ba01a453702fd50906d112/%5BEnglish%5D%20Apple%20Event%20%E2%80%94%20October%2013%20%5BDownSub.com%5D.srt
+Subtitle english url: https://raw.githubusercontent.com/Pisey-Nguon/Player-Resource/master/%5BEnglish%5D%20Apple%20Event%20%E2%80%94%20October%2013%20%5BDownSub.com%5D.srt
 
-Subtitle Japanes url: https://github.com/Pisey-Nguon/Player-Resource/blob/9e4e9882436e17db76ba01a453702fd50906d112/%5BJapanese%5D%20Apple%20Event%20%E2%80%94%20October%2013%20%5BDownSub.com%5D.srt
+Subtitle Japanes url: https://raw.githubusercontent.com/Pisey-Nguon/Player-Resource/master/%5BJapanese%5D%20Apple%20Event%20%E2%80%94%20October%2013%20%5BDownSub.com%5D.srt
