@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>App Update Notification</title>
+    <style>
+        .update-notification {
+            width: 100%;
+            padding: 20px;
+            background-color: #f8d7da;
+            color: #721c24;
+            text-align: center;
+            margin-bottom: 20px;
+            border: 1px solid #f5c6cb;
+        }
+    </style>
+</head>
+<body>
+    <div class="update-notification">
+        <h2>New App Update Available!</h2>
+        <p>We are excited to announce a new update for our app. This update brings a lot of new features and improvements. Please update your app to the latest version to enjoy these features.</p>
+        <button onclick="location.href='https://www.yourwebsite.com/app-update';" style="padding: 10px 20px; background-color: #0d6efd; color: white; border: none; cursor: pointer;">Update Now</button>
+    </div>
+</body>
+</html>
